@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dhurma City-Home</title>
+  <link rel="stylesheet" href="s.css">
+</head>
+
+<body>
+<header>
+  <h1>Welcome to Dhurma!</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="a.html">About</a>
+    <a href="p.html">Projects</a>
+    <a href="c.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>Ya Marhaba!!</h2>
+    <p>Welcome to the offical Dhurma City Website where you can find all the information about this incredible city.</p>
+  </section>
+<img src="A.jpg" class="rounded-img" alt="image not found" width="450">
+<style>
+.rounded-img {
+  border-radius: 20px;  /
+}
+</style>
+
+
+</main>
+</body>
+</html>
+

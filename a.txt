@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dhurma City-About</title>
+  <link rel="stylesheet" href="s.css">
+</head>
+
+<body>
+<header>
+  <h1>About Dhurma</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="a.html">About</a>
+    <a href="p.html">Projects</a>
+    <a href="c.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>What is Dhurma City?</h2>
+    <h3>Dhurma is a historic town in Saudi Arabia’s Riyadh Province, located about 60–73 km west of Riyadh. It is known for its deep Najdi heritage, desert valleys, and continuous urban growth.</h3>
+
+<h3>Landmarks of Dhurma</h3>
+<ul>
+<li>Al-Fargh Palace – A historic palace that reflects traditional Najdi architecture and the legacy of local rulers.
+</li>
+
+<li>Bu Huwamiyah Palace – Another heritage site showcasing the cultural richness of the region.
+</li>
+
+<li>Qarqara Village – An ancient settlement that preserves the memory of Dhurma’s early inhabitants.
+</li>
+
+<li>Al-Aziz Wells – Historic water sources that sustained life in the desert and symbolize the town’s agricultural past.
+</li>
+
+</ul>
+<h3>The future of Dhurma</h3>
+<h4>Dhurma, once known mainly for its historic palaces and valleys, is now positioned to become a strategic extension of Riyadh’s growth. The Dharma Project West Riyadh, launched by Ajlan Global, covers 19.6 million square meters and is designed as a modern urban model that blends tradition with innovation.
+</h4>
+
+  </section>
+</main>
+</body>
+</html>
+
